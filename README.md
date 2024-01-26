@@ -5,7 +5,8 @@ Desenvolvi o CryptoApp, um aplicativo dedicado ao universo das criptomoedas, ofe
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<>
+<![WhatsApp Image 2024-01-25 at 21 51 26](https://github.com/SimonAlves/CryptoApp_Teste/assets/123409031/b0fed74d-1722-45f2-9762-93beb3ec53f4)
+>
 
 ## Tecnologias
 * Kotlin
