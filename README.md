@@ -17,29 +17,35 @@ Descrição: Fragmento detalhado para visualização de informações específic
 Recursos:
 🔄 Carregamento dinâmico de dados.
 📊 Exibição de detalhes e gráfico da criptomoeda.
-2. HomeFragment:
+
+3. HomeFragment:
 Descrição: Fragmento principal apresentando as principais criptomoedas do mercado.
 Recursos:
+
 📱 Utilização eficiente de ViewPager para navegação.
 📈 Exibição de maiores ganhadores e principais perdedores.
 🔄 Integração contínua com a API para dados de mercado.
-3. MarketFragment:
+
+5. MarketFragment:
 Descrição: Fragmento para visualização do mercado de criptomoedas.
 Recursos:
 🔄 Utilização de RecyclerView para listagem de criptomoedas.
 🔍 Pesquisa dinâmica para atualização instantânea.
-4. TopLossGainFragment:
+
+7. TopLossGainFragment:
 Descrição: Fragmento para exibir as principais criptomoedas em termos de maiores ganhos ou perdas.
 Recursos:
 🔄 Ordenação dinâmica com base na mudança percentual nas últimas 24 horas.
 🔄 RecyclerView atualizado de acordo com a posição (ganhadores ou perdedores).
 🌟 Outros Componentes Essenciais:
+
 1. SplashScreenAnimation:
 Descrição: Atividade de animação de introdução para uma entrada visualmente atraente.
 Recursos:
 🔄 Uso da biblioteca YoYo para animações suaves.
 🚀 Navegação para a MainActivity após a animação.
-2. MainActivity:
+
+3. MainActivity:
 Descrição: Atividade principal que hospeda os fragmentos de navegação.
 Recursos:
 🔄 Uso eficiente do View Binding para inflar o layout da atividade.
@@ -49,6 +55,7 @@ Recursos:
 UI/UX Aprimorados: Design intuitivo e atraente para uma experiência de usuário envolvente.
 Ordenação Dinâmica: Listas atualizadas automaticamente com base em mudanças de mercado.
 Navegação Eficiente: Interface de usuário projetada para facilitar a navegação e a pesquisa.
+
 🎉 Conclusão:
 O CryptoApp é mais do que um aplicativo; é uma plataforma completa para acompanhar, analisar e explorar o emocionante mundo das criptomoedas. Desenvolvido com paixão e atenção aos detalhes, o aplicativo oferece uma experiência robusta para usuários de todos os níveis.
 
