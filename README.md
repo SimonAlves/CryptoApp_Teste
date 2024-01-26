@@ -1,4 +1,4 @@
-# Listade ProdutosRecyclerView
+# Aplicativo analytics Criptomoedas
 
 Desenvolvi o CryptoApp, um aplicativo dedicado ao universo das criptomoedas, oferecendo uma experiência abrangente e envolvente para os entusiastas e investidores.
 
